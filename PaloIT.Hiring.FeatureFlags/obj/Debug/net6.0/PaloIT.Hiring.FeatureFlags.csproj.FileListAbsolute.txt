@@ -1,0 +1,12 @@
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\bin\Debug\net6.0\PaloIT.Hiring.FeatureFlags.deps.json
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\bin\Debug\net6.0\PaloIT.Hiring.FeatureFlags.dll
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\bin\Debug\net6.0\PaloIT.Hiring.FeatureFlags.pdb
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\PaloIT.Hiring.FeatureFlags.csproj.AssemblyReference.cache
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\PaloIT.Hiring.FeatureFlags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\PaloIT.Hiring.FeatureFlags.AssemblyInfoInputs.cache
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\PaloIT.Hiring.FeatureFlags.AssemblyInfo.cs
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\PaloIT.Hiring.FeatureFlags.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\PaloIT.Hiring.FeatureFlags.dll
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\refint\PaloIT.Hiring.FeatureFlags.dll
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\PaloIT.Hiring.FeatureFlags.pdb
+C:\Users\Jan\Desktop\workspace\hiring\__pairin\PaloIT.Hiring.FeatureFlags\PaloIT.Hiring.FeatureFlags\obj\Debug\net6.0\ref\PaloIT.Hiring.FeatureFlags.dll
